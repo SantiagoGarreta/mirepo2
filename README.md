@@ -14,4 +14,11 @@ Esto es un ejmplo del formato Markdown
 * Avengers
 * Rocky
 
+Una lista aparte
+* Game of Thrones
+* The Mandalorian
+* The Simpsons
+* Peaky Blinders
+* Breaking Bad
+
 
