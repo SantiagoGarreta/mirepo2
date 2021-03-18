@@ -13,6 +13,7 @@ Esto es un ejmplo del formato Markdown
 * The Lord of the Rings
 * Avengers
 * Rocky
+* Terminator
 
 Una lista aparte
 * Game of Thrones
