@@ -14,7 +14,6 @@ Esto es un ejmplo del formato Markdown
 * Avengers
 * Rocky
 * Terminator
-* Interstellar
 
 Una lista aparte
 * Game of Thrones
@@ -22,5 +21,6 @@ Una lista aparte
 * The Simpsons
 * Peaky Blinders
 * Breaking Bad
+* Naruto
 
 TEST
