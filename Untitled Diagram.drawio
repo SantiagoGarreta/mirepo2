@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T00:47:10.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="By6iFG5K7c2IWWoXt1s2" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T03:57:59.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="URI11bHnpw1attUP3uDu" version="15.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1098" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-35" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="160" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-36" value="(2,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-36" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="505" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-37" value="realiza" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -112,7 +112,7 @@
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-42" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="444.39" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-43" value="(2,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-43" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="505" y="444.39" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-46" value="Participación" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -136,10 +136,10 @@
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-53" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="490" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-54" value="(2,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-54" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-55" value="(2,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-55" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="575" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-56" value="resuelta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -157,8 +157,20 @@
         <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-60" value="(3,3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="120" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-61" value="(2,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-61" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-62" value="&quot;La competencia es integrada por al menos 1 equipo.&quot;&lt;br&gt;&quot;La competencia tiene al menos un problema&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="680" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-63" value="&quot;Los miembros contienen al menos 1 equipo&quot;&lt;br&gt;&quot;Los equipos realizan por lo menos 1 Problema&quot;&lt;br&gt;&quot;Los problemas son realizados por al menos 1 equipo&quot;&lt;br&gt;&quot;La participacion obtiene al menos una instancia de resolucion&quot;&amp;nbsp;&lt;br&gt;&quot;La instancia de resolucion obtiene al menos una participacion&quot;&amp;nbsp;&lt;br&gt;&quot;Los jueces resuelven al menos una instancia de resolucion&quot;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="710" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-64" value="Se declara ganador al equipo que obtiene mejor puntaje&lt;br&gt;&amp;nbsp;resolviendo mas problemas en menor tiempo&lt;br&gt;&amp;nbsp;en la participación resuelta por los jueces" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="680" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gNS0TEqsmp0q7ZJ8OzVK-65" value="Restricciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="660" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
